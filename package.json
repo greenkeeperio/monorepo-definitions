@@ -1,14 +1,15 @@
 {
   "name": "greenkeeper-monorepo-definitions",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Groups npm packages into monorepo releases so Greenkeeper can update them together",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greenkeeperio/monorepo-definitions.git"
+    "url": "https://github.com/greenkeeperio/monorepo-definitions.git"
   },
   "keywords": [
     "greenkeeper",
@@ -24,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/greenkeeperio/monorepo-definitions/issues"
   },
-  "homepage": "https://github.com/greenkeeperio/monorepo-definitions#readme"
+  "homepage": "https://github.com/greenkeeperio/monorepo-definitions#readme",
+  "devDependencies": {
+    "semantic-release": "^15.5.2",
+    "standard": "^11.0.1"
+  }
 }
