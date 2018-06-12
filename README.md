@@ -1,4 +1,4 @@
-# Greenkeeper Monorepo Definitions
+# Greenkeeper Monorepo Definitions 🎁
 This module groups npm packages into monorepo releases so Greenkeeper can update them together. It is required by both [Greenkeeper](https://github.com/greenkeeperio/greenkeeper) and [greenkeeper-lockfile](https://github.com/greenkeeperio/greenkeeper-lockfile) and used as the source of truth on which modules constitute part of a monorepo release and should therefore be updated together.
 
 The instances of `greenkeeper-lockfile` running on your CI will always automatically install the most recent release of this module on each CI run, so you don’t have to update `greenkeeper-lockfile` every time someone updates a monorepo dependency.
