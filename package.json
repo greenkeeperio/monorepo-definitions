@@ -1,0 +1,28 @@
+{
+  "name": "greenkeeper-monorepo-definitions",
+  "version": "1.0.0",
+  "description": "Groups npm packages into monorepo releases so Greenkeeper can update them together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenkeeperio/monorepo-definitions.git"
+  },
+  "keywords": [
+    "greenkeeper",
+    "npm",
+    "monorepos",
+    "dependency",
+    "updates",
+    "dependency",
+    "management"
+  ],
+  "author": "Julia Krüger, Jacoba Brandner, Jan Lehnardt, Alex Feyerke",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/greenkeeperio/monorepo-definitions/issues"
+  },
+  "homepage": "https://github.com/greenkeeperio/monorepo-definitions#readme"
+}
