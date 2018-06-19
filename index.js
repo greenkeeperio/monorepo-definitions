@@ -26,6 +26,14 @@ const monorepoDefinitions = {
     '@angular/cdk-experimental',
     '@angular/material-moment-adapter'
   ],
+  'apollo-client': [
+    'apollo-boost',
+    'apollo-cache-inmemory',
+    'apollo-cache',
+    'apollo-client',
+    'apollo-utilities',
+    'graphql-anywhere'
+  ],
   'babel': [
     'babel-plugin-transform-es2015-spread',
     'babel-plugin-syntax-trailing-function-commas',
