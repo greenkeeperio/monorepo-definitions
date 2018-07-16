@@ -195,6 +195,13 @@ const monorepoDefinitions = {
     'diff-sequences',
     'jest-serializer'
   ],
+  'polyfill-io-aot': [
+    '@polyfill-io-aot/builder',
+    '@polyfill-io-aot/builder-cli',
+    '@polyfill-io-aot/common',
+    '@polyfill-io-aot/core',
+    '@polyfill-io-aot/express'
+  ],
   'pouchdb': [
     'pouchdb',
     'pouchdb-abstract-mapreduce',
