@@ -26,6 +26,23 @@ const monorepoDefinitions = {
     '@angular/cdk-experimental',
     '@angular/material-moment-adapter'
   ],
+  'angular1': [
+    'angular',
+    'angular-animate',
+    'angular-aria',
+    'angular-cookies',
+    'angular-i18n',
+    'angular-loader',
+    'angular-mocks',
+    'angular-parse-ext',
+    'angular-route',
+    'angular-resource',
+    'angular-sanitize',
+    'angular-scenario',
+    'angular-touch',
+    'angular-messages',
+    'angular-messages-format'
+  ],
   'babel': [
     'babel-plugin-transform-es2015-spread',
     'babel-plugin-syntax-trailing-function-commas',
