@@ -483,6 +483,11 @@ const monorepoDefinitions = {
     'gk-test-a',
     'gk-test-b',
     'gk-test-c'
+  ],
+  'appcenter': [
+    'appcenter',
+    'appcenter-analytics',
+    'appcenter-crashes'
   ]
 }
 
