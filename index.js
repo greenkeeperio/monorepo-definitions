@@ -319,6 +319,9 @@ const monorepoDefinitions = {
     'enzyme-adapter-react-14',
     'enzyme-adapter-react-15.4',
     'enzyme-adapter-react-15',
+    'enzyme-adapter-react-16.1',
+    'enzyme-adapter-react-16.2',
+    'enzyme-adapter-react-16.3',
     'enzyme-adapter-react-16',
     'enzyme-adapter-utils',
     'enzyme-adapter-react-helper'
