@@ -326,6 +326,12 @@ const monorepoDefinitions = {
     'enzyme-adapter-utils',
     'enzyme-adapter-react-helper'
   ],
+  'fortawesome': [
+    '@fortawesome/fontawesome-svg-core',
+    '@fortawesome/free-regular-svg-icons',
+    '@fortawesome/free-solid-svg-icons',
+    '@fortawesome/react-fontawesome'
+  ],
   'jest': [
     'jest',
     'babel-jest',
