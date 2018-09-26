@@ -373,6 +373,12 @@ const monorepoDefinitions = {
     'diff-sequences',
     'jest-serializer'
   ],
+  'material-ui': [
+    '@material-ui/codemod',
+    '@material-ui/core',
+    '@material-ui/icons',
+    '@material-ui/lab'
+  ],
   'polyfill-io-aot': [
     '@polyfill-io-aot/builder',
     '@polyfill-io-aot/builder-cli',
