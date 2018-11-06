@@ -4,7 +4,6 @@ const monorepoDefinitions = {
     '@angular/router',
     '@angular/common',
     '@angular/compiler',
-    '@angular/cli',
     '@angular/platform-server',
     '@angular/upgrade',
     '@angular/forms',
