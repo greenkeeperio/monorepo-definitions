@@ -20,8 +20,6 @@ const monorepoDefinitions = {
   ],
   'angular-cli': [
     '@angular/cli',
-    '@angular/compiler',
-    '@angular/compiler-cli',
     '@angular-devkit/architect',
     '@angular-devkit/architect-cli',
     '@angular-devkit/core',
@@ -31,6 +29,10 @@ const monorepoDefinitions = {
     '@angular-devkit/build-webpack',
     '@angular-devkit/build-optimizer',
     '@angular-devkit/build-ng-packagr',
+    '@angular/pwa',
+    '@schematics/angular',
+    '@schematics/schematics',
+    '@schematics/update',
     '@ngtools/webpack',
   ],
   'angular2': [
