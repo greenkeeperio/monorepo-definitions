@@ -33,7 +33,7 @@ const monorepoDefinitions = {
     '@schematics/angular',
     '@schematics/schematics',
     '@schematics/update',
-    '@ngtools/webpack',
+    '@ngtools/webpack'
   ],
   'angular2': [
     '@angular/material',
