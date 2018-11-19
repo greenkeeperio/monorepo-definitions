@@ -473,6 +473,15 @@ const monorepoDefinitions = {
     '@material-ui/icons',
     '@material-ui/lab'
   ],
+  'ngxs': [
+    '@ngxs/devtools-plugin',
+    '@ngxs/form-plugin',
+    '@ngxs/logger-plugin',
+    '@ngxs/storage-plugin',
+    '@ngxs/store',
+    '@ngxs/router-plugin',
+    '@ngxs/websocket-plugin',
+  ],
   'polyfill-io-aot': [
     '@polyfill-io-aot/builder',
     '@polyfill-io-aot/builder-cli',
