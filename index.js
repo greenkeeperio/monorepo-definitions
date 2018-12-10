@@ -621,6 +621,10 @@ const monorepoDefinitions = {
     '@uppy/webcam',
     '@uppy/xhr-upload'
   ],
+  'vue': [
+    'vue',
+    'vue-template-compiler'
+  ],
   'gk-test': [
     'gk-test-a',
     'gk-test-b',
