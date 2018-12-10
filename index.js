@@ -480,7 +480,7 @@ const monorepoDefinitions = {
     '@ngxs/storage-plugin',
     '@ngxs/store',
     '@ngxs/router-plugin',
-    '@ngxs/websocket-plugin',
+    '@ngxs/websocket-plugin'
   ],
   'polyfill-io-aot': [
     '@polyfill-io-aot/builder',
