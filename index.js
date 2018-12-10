@@ -471,7 +471,8 @@ const monorepoDefinitions = {
     '@material-ui/codemod',
     '@material-ui/core',
     '@material-ui/icons',
-    '@material-ui/lab'
+    '@material-ui/lab',
+    '@material-ui/docs'
   ],
   'polyfill-io-aot': [
     '@polyfill-io-aot/builder',
