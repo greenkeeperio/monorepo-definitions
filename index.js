@@ -312,6 +312,10 @@ const monorepoDefinitions = {
     'baset-resolver-pixi',
     'baset-env-browser'
   ],
+  'electron-builder': [
+    'electron-builder',
+    'electron-updater'
+  ],
   'enzyme': [
     'enzyme',
     'enzyme-adapter-react-13',
