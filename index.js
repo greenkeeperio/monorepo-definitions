@@ -471,7 +471,8 @@ const monorepoDefinitions = {
     '@material-ui/codemod',
     '@material-ui/core',
     '@material-ui/icons',
-    '@material-ui/lab'
+    '@material-ui/lab',
+    '@material-ui/docs'
   ],
   'ngxs': [
     '@ngxs/devtools-plugin',
@@ -628,6 +629,10 @@ const monorepoDefinitions = {
     '@uppy/utils',
     '@uppy/webcam',
     '@uppy/xhr-upload'
+  ],
+  'vue': [
+    'vue',
+    'vue-template-compiler'
   ],
   'gk-test': [
     'gk-test-a',
