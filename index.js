@@ -316,6 +316,25 @@ const monorepoDefinitions = {
     'electron-builder',
     'electron-updater'
   ],
+  'emotion': [
+    '@emotion/babel-preset-css-prop',
+    '@emotion/cache',
+    '@emotion/css',
+    '@emotion/core',
+    '@emotion/native',
+    '@emotion/primitives-core',
+    '@emotion/primitives',
+    '@emotion/styled-base',
+    '@emotion/styled',
+    'babel-plugin-emotion',
+    'create-emotion-server',
+    'create-emotion',
+    'eslint-plugin-emotion',
+    'emotion-server',
+    'emotion-theming',
+    'emotion',
+    'jest-emotion'
+  ],
   'enzyme': [
     'enzyme',
     'enzyme-adapter-react-13',
