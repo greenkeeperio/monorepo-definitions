@@ -860,6 +860,26 @@ const monorepoDefinitions = {
     'appcenter',
     'appcenter-analytics',
     'appcenter-crashes'
+  ],
+  'pika-builders': [
+    '@pika/babel-plugin-esm-import-rewrite',
+    '@pika/plugin-build-deno',
+    '@pika/plugin-build-node',
+    '@pika/plugin-build-types',
+    '@pika/plugin-build-umd',
+    '@pika/plugin-build-web-complete',
+    '@pika/plugin-build-web',
+    '@pika/plugin-bundle-node',
+    '@pika/plugin-bundle-types',
+    '@pika/plugin-bundle-web',
+    '@pika/plugin-copy-assets',
+    '@pika/plugin-simple-bin',
+    '@pika/plugin-source-bucklescript',
+    '@pika/plugin-standard-pkg',
+    '@pika/plugin-ts-standard-pkg',
+    '@pika/plugin-wasm-assemblyscript',
+    '@pika/plugin-wasm-bindings',
+    '@pika/types'
   ]
 }
 
