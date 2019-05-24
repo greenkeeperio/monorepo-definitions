@@ -950,6 +950,7 @@ const monorepoDefinitions = {
     '@material/top-app-bar',
     '@material/typography',
     'material-components-web'
+    ],
   'pika-builders': [
     '@pika/babel-plugin-esm-import-rewrite',
     '@pika/plugin-build-deno',
