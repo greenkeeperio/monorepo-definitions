@@ -220,7 +220,6 @@ const monorepoDefinitions = {
     '@aws-cdk/aws-waf',
     '@aws-cdk/aws-wafregional',
     '@aws-cdk/aws-workspaces',
-    '@aws-cdk/cdk',
     '@aws-cdk/cfnspec',
     '@aws-cdk/cloudformation-diff',
     '@aws-cdk/core',
