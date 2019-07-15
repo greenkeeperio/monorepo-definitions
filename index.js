@@ -706,6 +706,10 @@ const monorepoDefinitions = {
     'diff-sequences',
     'jest-serializer'
   ],
+  'lodash': [
+    'lodash',
+    'lodash-es'
+  ],
   'material-ui': [
     '@material-ui/codemod',
     '@material-ui/core',
