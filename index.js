@@ -717,6 +717,11 @@ const monorepoDefinitions = {
     '@material-ui/lab',
     '@material-ui/docs'
   ],
+  'nestjs': [
+    '@nestjs/common',
+    '@nestjs/core',
+    '@nestjs/platform-express'
+  ],
   'ngxs': [
     '@ngxs/devtools-plugin',
     '@ngxs/form-plugin',
