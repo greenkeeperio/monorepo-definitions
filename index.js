@@ -791,6 +791,25 @@ const monorepoDefinitions = {
     'react-dnd-html5-backend',
     'react-dnd-test-backend'
   ],
+  'serialport': [
+    'serialport',
+    '@serialport/async-iterator',
+    '@serialport/binding-abstract',
+    '@serialport/binding-mock',
+    '@serialport/bindings',
+    '@serialport/list',
+    '@serialport/parser-byte-length',
+    '@serialport/parser-cctalk',
+    '@serialport/parser-delimiter',
+    '@serialport/parser-inter-byte-timeout',
+    '@serialport/parser-readline',
+    '@serialport/parser-ready',
+    '@serialport/parser-regex',
+    '@serialport/parser-slip-encoder',
+    '@serialport/repl',
+    '@serialport/stream',
+    '@serialport/terminal'
+   ],
   'storybook': [
     '@storybook/addon-a11y',
     '@storybook/addon-actions',
