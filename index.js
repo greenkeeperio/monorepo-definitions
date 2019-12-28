@@ -999,6 +999,15 @@ const monorepoDefinitions = {
     '@pika/plugin-wasm-assemblyscript',
     '@pika/plugin-wasm-bindings',
     '@pika/types'
+  ],
+  'webdriverio': [
+    'webdriverio',
+    '@wdio/cli',
+    '@wdio/crossbrowsertesting-service',
+    '@wdio/local-runner',
+    '@wdio/mocha-framework',
+    '@wdio/spec-reporter',
+    '@wdio/sync'
   ]
 }
 
