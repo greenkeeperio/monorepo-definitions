@@ -999,6 +999,10 @@ const monorepoDefinitions = {
     '@pika/plugin-wasm-assemblyscript',
     '@pika/plugin-wasm-bindings',
     '@pika/types'
+  ],
+  'typescript-eslint': [
+    '@typescript-eslint/eslint-plugin',
+    '@typescript-eslint/parser'
   ]
 }
 
