@@ -1002,7 +1002,7 @@ const monorepoDefinitions = {
   ],
   'typescript-eslint': [
     '@typescript-eslint/eslint-plugin',
-    '@typescript-eslint/parser
+    '@typescript-eslint/parser'
   ]
 }
 
