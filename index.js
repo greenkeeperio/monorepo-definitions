@@ -999,6 +999,15 @@ const monorepoDefinitions = {
     '@pika/plugin-wasm-assemblyscript',
     '@pika/plugin-wasm-bindings',
     '@pika/types'
+  ],
+  'tg-resources': [
+    'tg-resources',
+    '@tg-resources/core',
+    '@tg-resources/fetch-runtime',
+    '@tg-resources/is',
+    '@tg-resources/redux-saga-router',
+    '@tg-resources/fetch',
+    '@tg-resources/superagent'
   ]
 }
 
