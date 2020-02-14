@@ -999,6 +999,29 @@ const monorepoDefinitions = {
     '@pika/plugin-wasm-assemblyscript',
     '@pika/plugin-wasm-bindings',
     '@pika/types'
+  ],
+  'reach-ui': [
+    '@reach/accordion',
+    '@reach/alert',
+    '@reach/alert-dialog',
+    '@reach/auto-id',
+    '@reach/checkbox',
+    '@reach/combobox',
+    '@reach/component-component',
+    '@reach/descendants',
+    '@reach/dialog',
+    '@reach/disclosure',
+    '@reach/menu-button',
+    '@reach/popover',
+    '@reach/portal',
+    '@reach/rect',
+    '@reach/skip-nav',
+    '@reach/slider',
+    '@reach/tabs',
+    '@reach/tooltip',
+    '@reach/utils',
+    '@reach/visually-hidden',
+    '@reach/window-size'
   ]
 }
 
