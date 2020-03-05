@@ -1,3 +1,7 @@
+***
+☝️ **Important announcement:** Greenkeeper will be saying goodbye 👋 and passing the torch to Snyk on June 3rd, 2020! [Find out how to migrate to Snyk and more at greenkeeper.io](https://greenkeeper.io)
+***
+
 # Greenkeeper Monorepo Definitions 🎁
 This module groups npm packages into monorepo releases so Greenkeeper can update them together. It is required by both [Greenkeeper](https://github.com/greenkeeperio/greenkeeper) and [greenkeeper-lockfile](https://github.com/greenkeeperio/greenkeeper-lockfile) and used as the source of truth on which modules constitute part of a monorepo release and should therefore be updated together.
 
