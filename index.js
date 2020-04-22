@@ -18,7 +18,7 @@ const monorepoDefinitions = {
     '@angular/bazel',
     '@angular/language-service'
   ],
-  'angular2': [
+  'angular-material': [
     '@angular/material',
     '@angular/cdk',
     '@angular/material-experimental',
