@@ -18,6 +18,23 @@ const monorepoDefinitions = {
     '@angular/bazel',
     '@angular/language-service'
   ],
+  'angular-cli': [
+    '@angular/cli',
+    '@angular-devkit/architect',
+    '@angular-devkit/architect-cli',
+    '@angular-devkit/core',
+    '@angular-devkit/schematics',
+    '@angular-devkit/schematics-cli',
+    '@angular-devkit/build-angular',
+    '@angular-devkit/build-webpack',
+    '@angular-devkit/build-optimizer',
+    '@angular-devkit/build-ng-packagr',
+    '@angular/pwa',
+    '@schematics/angular',
+    '@schematics/schematics',
+    '@schematics/update',
+    '@ngtools/webpack'
+  ],
   'angular2': [
     '@angular/material',
     '@angular/cdk',
