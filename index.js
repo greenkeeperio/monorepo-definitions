@@ -676,6 +676,31 @@ const monorepoDefinitions = {
     'gatsby',
     'graphql-skip-limit'
   ],
+  'itly': [
+    '@itly/itly',
+    '@itly/sdk',
+    // https://github.com/amplitude/itly-sdk/tree/master/packages
+    '@itly/plugin-amplitude-node',
+    '@itly/plugin-amplitude-react-native',
+    '@itly/plugin-amplitude',
+    '@itly/plugin-braze-node',
+    '@itly/plugin-braze',
+    '@itly/plugin-firebase-react-native',
+    '@itly/plugin-google-analytics',
+    '@itly/plugin-iteratively-node',
+    '@itly/plugin-iteratively',
+    '@itly/plugin-mixpanel-node',
+    '@itly/plugin-mixpanel',
+    '@itly/plugin-mparticle-react-native',
+    '@itly/plugin-mparticle',
+    '@itly/plugin-schema-validator',
+    '@itly/plugin-segment-node',
+    '@itly/plugin-segment-react-native',
+    '@itly/plugin-segment',
+    '@itly/plugin-snowplow-react-native',
+    '@itly/plugin-snowplow',
+    '@itly/plugin-testing'
+  ],
   'jest': [
     'jest',
     'babel-jest',
